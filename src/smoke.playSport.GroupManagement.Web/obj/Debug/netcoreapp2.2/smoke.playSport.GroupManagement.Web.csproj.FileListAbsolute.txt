@@ -1,0 +1,14 @@
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/bin/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.deps.json
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/bin/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.runtimeconfig.json
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/bin/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.runtimeconfig.dev.json
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/bin/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.dll
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/bin/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.pdb
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/obj/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.csprojAssemblyReference.cache
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/obj/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.csproj.CoreCompileInputs.cache
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/obj/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.RazorAssemblyInfo.cache
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/obj/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.RazorAssemblyInfo.cs
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/obj/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.AssemblyInfoInputs.cache
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/obj/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.AssemblyInfo.cs
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/obj/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.RazorTargetAssemblyInfo.cache
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/obj/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.dll
+/Users/smoke/Documents/studyProjects/AspNet-Practise/src/smoke.playSport.GroupManagement.Web/obj/Debug/netcoreapp2.2/smoke.playSport.GroupManagement.Web.pdb
